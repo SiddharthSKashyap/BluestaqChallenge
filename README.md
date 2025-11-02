@@ -58,7 +58,7 @@ Elevator sim started. Type 'help' for commands.
 [Status] Floor=5, Dir=UP, Doors=CLOSED, UpQueue=[7], DownQueue=[]
 > quit
 Goodbye!
-```text
+```
 
 # BEHAVIOR DETAILS
 
