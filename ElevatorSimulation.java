@@ -10,7 +10,7 @@ import java.util.*;
  *   help              // show commands
  *   quit
  */
-public class Main {
+public class ElevatorSimulation {
     public static void main(String[] args) {
         Elevator e = new Elevator(10); // change max floors here
         Scanner sc = new Scanner(System.in);
