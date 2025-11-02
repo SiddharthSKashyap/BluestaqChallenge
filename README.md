@@ -22,6 +22,7 @@ The simulation models a single elevator that:
 - Simple text-based interface.
 
 # USAGE
+```bash
 
 ## 1️. COMPILE AND RUN
 javac ElevatorSimulation.java
