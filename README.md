@@ -1,1 +1,1 @@
-# BluestaqChallenge
+# Bluestaq Challenge
